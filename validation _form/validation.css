@@ -1,0 +1,14 @@
+.form-floating span{
+    position: absolute;
+    bottom: 12px;
+    right: 17px;
+    font-size: 14px;
+    color: red;
+}#submitError{
+    position: relative;
+    top: 12px;
+    color: red;
+    font-size: 14px;
+}.form-floating span i{
+    color: green;
+}
